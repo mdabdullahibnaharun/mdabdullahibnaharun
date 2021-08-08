@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullahibnaharun&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullahibnaharun" /> </p>
 
-- 🌱 I’m currently learning **ML, J2EE, Spring-Boot **
+- 🌱 I’m currently learning **ML, J2EE, Spring-Boot**
 
 - 📫 How to reach me **abdullah13426.cse@gmail.com**
 
