@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullahibnaharun&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullahibnaharun" /> </p>
 
-- 🌱 I’m currently learning **ML, J2EE, Spring-Boot**
+- 🌱 I’m currently learning **ML, J2EE, Spring-Boot, REST**
+
+- 💬 Ask me about **anything you want to know! 😎**
 
 - 📫 How to reach me **abdullah13426.cse@gmail.com**
 
 - 📄 Know about my experiences [Google Site](https://sites.google.com/diu.edu.bd/abdullahibnaharun/experience?authuser=0)
 
-- ⚡ Fun fact **I like mystery.**
+- ⚡ Fun fact **I like mystery's a lot! ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
