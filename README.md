@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Google Site](https://sites.google.com/diu.edu.bd/abdullahibnaharun/experience?authuser=0)
 
-- ⚡ Fun fact **I like mystery's a lot! ❤️**
+- ⚡ Fun fact **I like mystery's & detective stories a lot! ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
