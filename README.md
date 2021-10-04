@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullahibnaharun&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullahibnaharun" /> </p>
 
-- 🌱 I’m currently learning **ML, J2EE, Spring-Boot, REST**
+- 🌱 I’m currently learning **Full-Stack Software Development**
 
 - 💬 Ask me about **anything you want to know! 😎**
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Google Site](https://sites.google.com/diu.edu.bd/abdullahibnaharun/experience?authuser=0)
 
-- ⚡ Fun fact **I like Mystery, Thriller, and Crime Solving a lot! ❤️**
+- ⚡ Fun fact **I like Mystery Solving a lot! ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
