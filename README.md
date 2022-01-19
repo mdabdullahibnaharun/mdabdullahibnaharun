@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Google Site](https://sites.google.com/diu.edu.bd/abdullahibnaharun/experience?authuser=0) & [Linktr.ee](https://linktr.ee/mdabdullahibnaharun)
 
-- ⚡ Fun fact **I like Mystery Solving a lot! ❤️**
+- ⚡ Fun fact **I like  Java a lot! ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
