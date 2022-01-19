@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Abdullah Ibna Harun</h1>
-<h5 align="center">I am currently studying in the Department of CSE at Daffodil International University. I love coding, reading, coffee and also like to do Travelling, Gaming, Mobile photography, learning & Problem-solving. I am very interested in working with computers and technological things. Love to work with Java. Interested in making Smart Web and Android Apps! 
+<h5 align="center">I'm studying computer science and engineering at Daffodil International University.  I love to coding, reading, coffee and also like to do Travelling, Gaming, learning & Problem-solving. I am very interested in working with computers and technological things. Love to work with Java. Interested in making Smart Web and Android Apps!
 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullahibnaharun&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullahibnaharun" /> </p>
