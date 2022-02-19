@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **anything you want to know! 😎**
 
+- 🕵️‍♂️ I’m looking to collaborate on Spring Boot projects
+
 - 📫 How to reach me **abdullah13426.cse@gmail.com**
 
 - 📄 Know about my experiences [Google Site](https://sites.google.com/diu.edu.bd/abdullahibnaharun/experience?authuser=0) & [Linktr.ee](https://linktr.ee/mdabdullahibnaharun)
