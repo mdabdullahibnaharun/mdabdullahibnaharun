@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullahibnaharun&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullahibnaharun" /> </p>
 <p align="left"> <a href="https://twitter.com/mdabdullahih" target="blank"><img src="https://img.shields.io/twitter/follow/mdabdullahih?logo=twitter&style=for-the-badge" alt="mdabdullahih" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Software Development**
+- 🌱 I’m currently learning **Spring boot, Angular.js**
 
 - 💬 Ask me about **anything you want to know! 😎**
 
