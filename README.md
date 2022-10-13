@@ -22,6 +22,7 @@ src="https://img.shields.io/twitter/follow/mdabdullahih?logo=twitter&style=for-t
 <a href="https://www.github.com/mdabdullahibnaharun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mdabdullahibnaharun?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a>
 
+<!--
 ### Skills
 
 <p align="left">
@@ -52,12 +53,20 @@ src="https://img.shields.io/github/followers/mdabdullahibnaharun?logo=github&sty
 
 ### Badges
 
+-->
+
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/mdabdullahibnaharun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahibnaharun&show_icons=true&locale=en&layout=compact&&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true" alt="Top Languages" /></a>
 
+
 <a href="http://www.github.com/mdabdullahibnaharun"><img src="https://github-readme-stats.vercel.app/api?username=mdabdullahibnaharun&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="mdabdullahibnaharun's GitHub stats" /></a>
+
+<!-- 
 
 <a href="http://www.github.com/mdabdullahibnaharun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdullahibnaharun&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/mdabdullahibnaharun"><img src="https://activity-graph.herokuapp.com/graph?username=mdabdullahibnaharun&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+-->
