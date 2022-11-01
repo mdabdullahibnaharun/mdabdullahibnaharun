@@ -5,6 +5,7 @@ Hi 👋 My name is Md. Abdullah Ibna Harun
 Studies B.Sc. in CSE | Java | Spring-Boot
 ------------------------
 
+
 I'm studying computer science and engineering at Daffodil International University. I love to coding, reading, coffee and also like to do Travelling, Gaming, learning & Problem-solving. I am very interested in working with computers and technological things. Love to work with Java. Interested in making Smart Web and Android Apps!
 
 * 🌍  I'm based in Bangladesh
@@ -23,6 +24,7 @@ src="https://img.shields.io/twitter/follow/mdabdullahih?logo=twitter&style=for-t
 src="https://img.shields.io/github/followers/mdabdullahibnaharun?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a>
 
 <!--
+
 ### Skills
 
 <p align="left">
