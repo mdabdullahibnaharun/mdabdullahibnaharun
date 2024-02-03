@@ -1,4 +1,7 @@
-<!-- Hi there! 👋 I'm Md. Abdullah Ibna Harun -->
+<div style="display: flex; flex-wrap: wrap;">
+
+<!-- Left Column -->
+<div style="flex: 50%; max-width: 50%; padding: 0 16px; box-sizing: border-box;">
 
 # 💫 Hi! 👋 I am Md. Abdullah Ibna Harun 
 
@@ -23,6 +26,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdabdullahibnaharun)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mdabdullahibnaharun)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdabdullahibnaharun) 
+
+</div>
+
+<!-- Right Column -->
+<div style="flex: 50%; max-width: 50%; padding: 0 16px; box-sizing: border-box;">
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -55,6 +63,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdabdullahibnaharun&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabdullahibnaharun&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahibnaharun&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+</div>
 
 <!-- Add any additional sections you'd like! -->
 
