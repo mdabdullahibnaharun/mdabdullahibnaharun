@@ -5,7 +5,6 @@ Greetings! I'm not just an **Undergraduate🎓** majoring in Computer Science & 
 
 ---
 ## ⚡️ A Few Quick Facts
-
 - 🌍 Based in Bangladesh
 - 🖥️ Portfolio: [abdullahibnaharun](https://mdabdullahibnaharun.github.io/)
 - ✉️ Contact: [mdabdullahih13426@gmail.com](mailto:mdabdullahih13426@gmail.com)
