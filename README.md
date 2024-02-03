@@ -1,6 +1,11 @@
-# 💫 Hi! 👋 I am Md. Abdullah Ibna Harun 
+
+# 💫 Hi there! 👋 I am Md. Abdullah Ibna Harun 
+### Unveiling the Tech Enthusiast in Me!  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+Greetings! I'm not just an **Undergraduate🎓** majoring in Computer Science & Engineering; I'm a **Tech Maestro 💻 😃** on a thrilling journey of continuous learning and exploration of cutting-edge technologies. My heart beats for Software Engineering and Quality Assurance Engineering, and I'm here to turn my passion into innovation. <br/><br/>
 
 ---
+## ⚡️ A Few Quick Facts
+
 - 🌍 Based in Bangladesh
 - 🖥️ Portfolio: [abdullahibnaharun](https://mdabdullahibnaharun.github.io/)
 - ✉️ Contact: [mdabdullahih13426@gmail.com](mailto:mdabdullahih13426@gmail.com)
