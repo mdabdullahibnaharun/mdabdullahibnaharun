@@ -1,74 +1,62 @@
-<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md. Abdullah Ibna Harun -->
-Hi 👋 My name is Md. Abdullah Ibna Harun
-===============================================================================================================================================
+<!-- Hi there! 👋 I'm Md. Abdullah Ibna Harun -->
 
-Studies B.Sc. in CSE | Java | Spring-Boot
-------------------------
+# 💫 Hi! 👋 I am Md. Abdullah Ibna Harun 
 
+- 🌍 Based in Bangladesh
+- 🖥️ Portfolio: [abdullahibnaharun](https://mdabdullahibnaharun.github.io/)
+- ✉️ Contact: [mdabdullahih13426@gmail.com](mailto:mdabdullahih13426@gmail.com)
+- 💬 Ask me about anything computer science-related! 😎
+- 🧠 Learning Spring Boot, Angular.js, Software Quality Assurance.
+- 🤝 Open to collaborating on Spring Boot projects
+- 💻 Favorite Linux distro: pop-os
+- ⚡ Fun fact: I like Java a lot! ❤️
 
-I'm studying computer science and engineering at Daffodil International University. I love to coding, reading, coffee and also like to do Travelling, Gaming, learning & Problem-solving. I am very interested in working with computers and technological things. Love to work with Java. Interested in making Smart Web and Android Apps!
+# 📚 Education
+- **B.Sc. in Computer Science & Engineering**
+  *Daffodil International University, Dhaka*
+  - 🎓 Graduated with Distinction
+  - 📚 Relevant Coursework: Data Structure, Algorithms, Software Architecture, Database Systems, Web Engineering, Software Engineering.
+    
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdabdullahibnaharun)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdabdullahibnaharun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdabdullahibnaharun)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mdabdullahibnaharun)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdabdullahibnaharun) 
 
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [abdullahibnaharun](http://sites.google.com/diu.edu.bd/abdullahibnaharun/)
-* ✉️  You can contact me at [abdullah13426.cse@gmail.com](mailto:abdullah13426.cse@gmail.com)
-* 💬 Ask me about **anything computer science releted! 😎**
-* 🧠  I'm learning **Spring boot, Angular.js**
-* 🤝  I'm open to collaborating on Spring Boot projects
-* 💻 Favourite linux distro: pop-os
-* ⚡  Fun fact **I like  Java a lot! ❤️**
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Appium](https://img.shields.io/badge/Appium-%23A775FF.svg?style=for-the-badge&logo=appium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Requirement Analysis](https://img.shields.io/badge/Requirement%20Analysis-%230081CB.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-%23FF4500.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2300FF00.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%230081CB.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<a href="https://www.twitter.com/mdabdullahih" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mdabdullahih?logo=twitter&style=for-the-badge&color=10b981&labelColor=000000"
-/></a>
-<a href="https://www.github.com/mdabdullahibnaharun" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mdabdullahibnaharun?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdabdullahibnaharun&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabdullahibnaharun&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahibnaharun&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
+<!-- Add any additional sections you'd like! -->
 
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="git"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="postman" /> </a>  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="scikit_learn" /> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="spring" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  width="36" height="36" alt="linux"/> </a>
-</p>
-
-### Socials
-
-<p align="left">
-<a href="https://www.codepen.io/abdullah15-13426" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/mdabdullahibnaharun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/mdabdullahibnaharun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/mdabdullahibnaharun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/mdabdullahibnaharun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mdabdullahibnaharun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mdabdullahibnaharun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@mdabdullahibnaharun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12866426/md-abdullah-ibna-harun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mdabdullahih" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UChNBVgd3l3HE2_hriNU9yQw/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://auth.geeksforgeeks.org/user/abdullah1513426" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="32" height="32"/></a> <a href="https://www.codechef.com/users/abdullah13426" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdullah13426" width="32" height="32"  /></a> <a href="https://www.hackerrank.com/abdullah13426" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullah13426"  width="32" height="32" /></a> <a href="https://codeforces.com/profile/abdullah100998" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="abdullah100998" width="32" height="32" /></a> <a href="https://www.leetcode.com/abdullah13426" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah13426" width="32" height="32" /></a>
-</p>
-
-### Badges
-
--->
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/mdabdullahibnaharun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahibnaharun&show_icons=true&locale=en&layout=compact&&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true" alt="Top Languages" /></a>
-
-
-<a href="http://www.github.com/mdabdullahibnaharun"><img src="https://github-readme-stats.vercel.app/api?username=mdabdullahibnaharun&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="mdabdullahibnaharun's GitHub stats" /></a>
-
-<!-- 
-
-<a href="http://www.github.com/mdabdullahibnaharun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdullahibnaharun&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/mdabdullahibnaharun"><img src="https://activity-graph.herokuapp.com/graph?username=mdabdullahibnaharun&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
--->
+---
+[![](https://visitcount.itsvg.in/api?id=mdabdullahibnaharun&icon=0&color=0)](https://visitcount.itsvg.in)
