@@ -60,4 +60,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdabdullahibnaharun) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mdabdullahibnaharun&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visits](https://komarev.com/ghpvc/?username=mdabdullahibnaharun&label=Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/mdabdullahibnaharun)
+[![GitHub Followers](https://img.shields.io/github/followers/mdabdullahibnaharun?label=Followers&logo=github&style=flat-square)](https://github.com/mdabdullahibnaharun)
+
+
+
