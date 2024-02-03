@@ -1,10 +1,6 @@
-<div style="display: flex; flex-wrap: wrap;">
-
-<!-- Left Column -->
-<div style="flex: 50%; max-width: 50%; padding: 0 16px; box-sizing: border-box;">
-
 # 💫 Hi! 👋 I am Md. Abdullah Ibna Harun 
 
+---
 - 🌍 Based in Bangladesh
 - 🖥️ Portfolio: [abdullahibnaharun](https://mdabdullahibnaharun.github.io/)
 - ✉️ Contact: [mdabdullahih13426@gmail.com](mailto:mdabdullahih13426@gmail.com)
@@ -14,25 +10,15 @@
 - 💻 Favorite Linux distro: pop-os
 - ⚡ Fun fact: I like Java a lot! ❤️
 
+---
 # 📚 Education
 - **B.Sc. in Computer Science & Engineering**
   *Daffodil International University, Dhaka*
   - 🎓 Graduated with Distinction
   - 📚 Relevant Coursework: Data Structure, Algorithms, Software Architecture, Database Systems, Web Engineering, Software Engineering.
-    
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdabdullahibnaharun)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdabdullahibnaharun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdabdullahibnaharun)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mdabdullahibnaharun)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdabdullahibnaharun) 
 
-</div>
-
-<!-- Right Column -->
-<div style="flex: 50%; max-width: 50%; padding: 0 16px; box-sizing: border-box;">
-
-# 💻 Tech Stack
+---
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,16 +45,19 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%2300FF00.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%230081CB.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdabdullahibnaharun&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabdullahibnaharun&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahibnaharun&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
-</div>
-
-<!-- Add any additional sections you'd like! -->
+--- 
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdabdullahibnaharun)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdabdullahibnaharun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdabdullahibnaharun)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mdabdullahibnaharun)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdabdullahibnaharun) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdabdullahibnaharun&icon=0&color=0)](https://visitcount.itsvg.in)
