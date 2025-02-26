@@ -9,7 +9,7 @@ public class AboutMe {
 
         // Personal Information
         String name = "Md Abdullah Ibna Harun";
-        String title = "Aspiring Software Engineer | SQA Engineer | Java | Spring Boot | Angular";
+        String title = "Aspiring Software Engineer | SQA Engineer | Java | Spring Boot | Angular | Selenium | JMeter | ";
         
         // Skills
         String[] skills = {
@@ -40,9 +40,7 @@ public class AboutMe {
     }
 }
 
-
 ```
-
 ## 💻 Tech Stack
 
 I work with a range of powerful tools and technologies, and here's a glimpse of my tech stack:
@@ -90,11 +88,9 @@ I'm always open to new opportunities, collaborations, or just a good tech discus
   *Daffodil International University, Dhaka*
   - 🎓 Graduated with Distinction
   - 📚 Relevant Coursework: Data Structures, Algorithms, Software Architecture, Database Systems, Web Engineering, Software Engineering.
-
 ---
 
 ## 🚀 Fun Fact
 
-I'm always up for a challenge. Whether it's coding, testing, or just solving complex problems — I thrive on it. My personal challenge? **"Coding my way to a marathon finish line!"**
+As a Java developer, I thrive on solving complex problems and delivering clean, efficient solutions. My motto? **"Turning code into seamless solutions that drive success.
 
----
