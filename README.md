@@ -23,13 +23,14 @@ public class AboutMe {
             "CyberSAFE – BdREN (Jun 2023)",
             "Java From Basic to Professional – PONDIT (Apr 2021)"
         };
-        
+
         // Work Experience
         String[] experience = {
-            "SQA Engineer at Smart Software Ltd. (May 2024 - Present) - Led manual & automated tests, managed teams, and ensured timely delivery of high-quality software.",
-            "Technical Support Executive at Smart Software Ltd. (Feb 2024 - May 2024) - Provided technical support, conducted requirements analysis, and improved product usability.",
-            "SQA Intern at Creative Soft Technology Ltd. (Sep 2023 - Dec 2023) - Specialized in manual & automated testing, reported bugs, and contributed to project development."
+            "SQA Engineer at Smart Software Ltd. (May 2024 - Present) - Led tests & teams.",
+            "Technical Support Executive at Smart Software Ltd. (Feb 2024 - May 2024) - Provided support & analysis.",
+            "SQA Intern at Creative Soft Technology Ltd. (Sep 2023 - Dec 2023) - Focused on testing & bug reporting."
         };
+
 
         // Contact Information
         String phone = "+8801786287766";
