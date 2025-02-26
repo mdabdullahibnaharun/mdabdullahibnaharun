@@ -34,9 +34,6 @@ public class AboutMe {
 
         // Contact Information
         String phone = "+8801786287766";
-        String email = "abdullah13426.cse@gmail.com";
-        String linkedin = "https://www.linkedin.com/in/mdabdullahibnaharun";
-        String portfolio = "http://mdabdullahibnaharun.github.io/";
     }
 }
 
