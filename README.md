@@ -92,5 +92,5 @@ I'm always open to new opportunities, collaborations, or just a good tech discus
 
 ## 🚀 Fun Fact
 
-As a Java developer, I thrive on solving complex problems and delivering clean, efficient solutions. My motto? **"Turning code into seamless solutions that drive success.
+As a Java developer, I thrive on solving complex problems and delivering clean, efficient solutions. My motto? "Turning code into seamless solutions that drive success".
 
