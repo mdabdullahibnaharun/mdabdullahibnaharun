@@ -58,17 +58,6 @@ I work with a range of powerful tools and technologies, and here's a glimpse of 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-%23FF4500.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-Here's a quick glance at my GitHub stats and progress:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdabdullahibnaharun&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabdullahibnaharun&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahibnaharun&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ## 🌐 Let's Connect!
 
@@ -81,16 +70,3 @@ I'm always open to new opportunities, collaborations, or just a good tech discus
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdabdullahibnaharun)
 
 ---
-
-## 📚 Education
-
-- **B.Sc. in Computer Science & Engineering**
-  *Daffodil International University, Dhaka*
-  - 🎓 Graduated with Distinction
-  - 📚 Relevant Coursework: Data Structures, Algorithms, Software Architecture, Database Systems, Web Engineering, Software Engineering.
----
-
-## 🚀 Fun Fact
-
-As a Java developer, I thrive on solving complex problems and delivering clean, efficient solutions. My motto? "Turning code into seamless solutions that drive success".
-
