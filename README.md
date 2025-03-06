@@ -9,7 +9,7 @@ public class AboutMe {
 
         // Personal Information
         String name = "Md Abdullah Ibna Harun";
-        String title = "Java Enthusiast | Software Engineer | Java | Spring Boot | Angular | JavaScript | Microservices | SQA Engineer | SQA Engineer | Agile | Selenium | JMeter";
+        String title = "Java Enthusiast | Software Engineer | SQA Engineer";
         
         // Skills
         String[] skills = {
