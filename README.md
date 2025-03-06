@@ -40,7 +40,6 @@ public class AboutMe {
 ## 💻 Tech Stack
 
 I work with a range of powerful tools and technologies, and here's a glimpse of my tech stack:
-Here is the list with duplicates removed:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
