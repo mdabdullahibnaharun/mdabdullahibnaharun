@@ -26,11 +26,10 @@ public class AboutMe {
 
         // Work Experience
         String[] experience = {
-            "SQA Engineer at Smart Software Ltd. (May 2024 - Present) - Led tests & teams.",
+            "SQA Engineer at Smart Software Ltd. (May 2024 - Feb 2025) - Project coordinator, Led tests & teams.",
             "Technical Support Executive at Smart Software Ltd. (Feb 2024 - May 2024) - Provided support & analysis.",
             "SQA Intern at Creative Soft Technology Ltd. (Sep 2023 - Dec 2023) - Focused on testing & bug reporting."
         };
-
 
         // Contact Information
         String phone = "+8801786287766";
@@ -54,7 +53,6 @@ I work with a range of powerful tools and technologies, and here's a glimpse of 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-%23FF4500.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-
 
 ## 🌐 Let's Connect!
 
