@@ -1,42 +1,5 @@
 # 👋 Hi, I'm Md Abdullah Ibna Harun
 
-### 🌟 About Me
-
-```java
-public class AboutMe {
-
-    public static void main(String[] args) {
-
-        // Personal Information
-        String name = "Md Abdullah Ibna Harun";
-        String title = "Java Enthusiast | Software Engineer | SQA Engineer";
-        
-        // Skills
-        String[] skills = {
-            "Java", "C++", "Python", "SQL", "Spring Boot", "Microservices", 
-            "Angular", "Selenium", "JMeter", "Docker", "Git", "MySQL", "PostgreSQL"
-        };
-        
-        // Certifications
-        String[] certifications = {
-            "Software Testing & Quality Assurance (SQA) – Skill Jobs (Dec 2023)",
-            "CyberSAFE – BdREN (Jun 2023)",
-            "Java From Basic to Professional – PONDIT (Apr 2021)"
-        };
-
-        // Work Experience
-        String[] experience = {
-            "SQA Engineer at Smart Software Ltd. (May 2024 - Feb 2025) - Project coordinator, Led tests & teams.",
-            "Technical Support Executive at Smart Software Ltd. (Feb 2024 - May 2024) - Provided support & analysis.",
-            "SQA Intern at Creative Soft Technology Ltd. (Sep 2023 - Dec 2023) - Focused on testing & bug reporting."
-        };
-
-        // Contact Information
-        String phone = "+8801786287766";
-    }
-}
-
-```
 ## 💻 Tech Stack
 
 I work with a range of powerful tools and technologies, and here's a glimpse of my tech stack:
