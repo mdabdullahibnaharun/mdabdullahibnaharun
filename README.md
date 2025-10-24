@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Md. Abdullah Ibna Harun
-### Software Quality Assurance Engineer | Automation & Manual Testing Specialist
+### Software Quality Assurance Engineer | Automation & Manual Testing Specialist | Technical Support Specialist
 
 ## 💻 Tech Stack
 
