@@ -13,6 +13,7 @@ I work with a range of tools and technologies for software testing and quality a
 ![JMeter](https://img.shields.io/badge/JMeter-%23FF4500.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%23C21325.svg?style=for-the-badge&logo=JUnit&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%230A9CF5.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-%23007BFF.svg?style=for-the-badge&logo=bitrix24&logoColor=white)
 ![Git & GitHub](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
