@@ -23,7 +23,7 @@ I work with a range of tools and technologies for software testing and quality a
 
 ## 🌐 Let's Connect!
 
-I'm always open to QA opportunities, collaborations, or tech discussions. You can reach out via:
+I'm always open to opportunities, collaborations, or tech discussions. You can reach out via:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdabdullahibnaharun)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdabdullahibnaharun)
